@@ -2,13 +2,66 @@
     "version": "v0.0.1",
     "users": {
         "iyordanov": {
-            "api_key": "123",
+            "api_key": "vankatawe3",
             "status": "admin"
         },
-        
-        "iyordanov2": {
-            "api_key": "123",
-            "status": "admin"
+
+        "tuinboon": {
+            "api_key": "EejX8XqQPhUkQ5Z9somAg0Yqym4x5T",
+            "status": "helper"
+        },
+
+        "ducklett": {
+            "api_key": "A6bEvDbBimRzPMY778Ro4WkVH0FzYW",
+            "status": "member"
+        },
+
+         "lennard": {
+            "api_key": "FGarI5AOSigelmFEpzKW75V77tIms5",
+            "status": "member"
+        },
+
+         "furesc": {
+            "api_key": "lfRB0UmhpgtOsCW9mQqgTA00oqxwY8",
+            "status": "member"
+        },
+
+         "aran": {
+            "api_key": "tyaOkiOHTisDU7JMWmHa92KCfpjA01",
+            "status": "member"
+        },
+
+         "mie": {
+            "api_key": "4902aYMHjN2js86FEa5dQ5MS26oAVe",
+            "status": "member"
+        },
+
+         "angelfire": {
+            "api_key": "gZpNY7PwvI8GqOwmQVfiBxxK7ZMcFD",
+            "status": "member"
+        },
+
+         "fraidi": {
+            "api_key": "ZV606uGxUEsYEzPjD9XZpQOQeWhZu4",
+            "status": "member"
+        },
+
+        "julian": {
+              "api_key": "E8YJwV7P0qpp8Wx9UQGb5Q6rF7qZfi",
+              "status": "member"
+          },
+
+
+        "luzny_michal": {
+            "api_key": "f1IiPtZ77ubUBdllujXdK9ZQnlKP",
+            "status": "member"
+        }, 
+    
+        "kiwi_cabreaoo": {
+            "api_key": "Rzs0A5iOnhhjMS2rlEkTs72Czhcq",
+            "status": "member"
         }
+
+
     }
 }
