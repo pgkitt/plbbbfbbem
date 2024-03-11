@@ -1,6 +1,11 @@
 {
-    "iyordanov": {
-        "api_key": "123",
-        "status": "admin"
-    }
+
+    "version": "v0.0.1",
+    
+    "users": [
+        "iyordanov": {
+            "api_key": "123",
+            "status": "admin"
+        },
+    ]
 }
