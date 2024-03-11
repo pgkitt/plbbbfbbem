@@ -3,7 +3,7 @@
     "users": {
         "iyordanov": {
             "api_key": "123",
-            "status": "admin",
+            "status": "admin"
         }
     }
 }
