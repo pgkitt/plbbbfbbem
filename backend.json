@@ -4,6 +4,11 @@
         "iyordanov": {
             "api_key": "123",
             "status": "admin"
+        },
+        
+        "iyordanov2": {
+            "api_key": "123",
+            "status": "admin"
         }
     }
 }
